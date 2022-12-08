@@ -2,10 +2,10 @@
 #include <string.h>
 
 /**
- * main - main function of projest
+ *main - Main function of projest
  *
  *
- * Return: return 0 everyhtime
+ *Return: return 0 everyhtime
  */
 int main(void)
 {
