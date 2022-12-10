@@ -4,10 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- *  * main- this is the entry point of the program
- *   *
- *    * Return: this returns a default value of 0
- *    */
+ * main- this is the entry point of the program
+ *
+ * Return: this returns a default value of 0
+ */
 int main(void)
 {
 	int n;
@@ -21,7 +21,7 @@ int main(void)
 	}
 
 	if (n == 0)
-	}
+	{
 		printf("%d is zero\n", n);
 	}
 
